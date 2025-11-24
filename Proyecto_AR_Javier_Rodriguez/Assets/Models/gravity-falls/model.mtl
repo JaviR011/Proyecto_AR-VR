@@ -1,0 +1,45 @@
+# exported by https://3dviewer.net
+newmtl Logo
+Kd 1 1 1
+d 1
+map_Kd Binary_0.jpeg
+newmtl lambert5
+Kd 1 1 1
+d 1
+map_Kd Binary_1.png
+newmtl AlphaCutouts
+Kd 1 1 1
+d 1
+map_Kd Binary_2.png
+newmtl Characters
+Kd 1 1 1
+d 1
+map_Kd Binary_3.jpeg
+newmtl FloorShadow
+Kd 1 1 1
+d 1
+map_Kd Binary_4.png
+newmtl Skybox
+Kd 1 1 1
+d 1
+map_Kd Binary_5.jpeg
+newmtl Outside
+Kd 1 1 1
+d 1
+map_Kd Binary_6.jpeg
+newmtl RoofBaked
+Kd 1 1 1
+d 1
+map_Kd Binary_7.jpeg
+newmtl House
+Kd 1 1 1
+d 1
+map_Kd Binary_8.jpeg
+newmtl Booksbaked
+Kd 1 1 1
+d 1
+map_Kd Binary_9.jpeg
+newmtl Kart_Clutter
+Kd 1 1 1
+d 1
+map_Kd Binary_10.jpeg
