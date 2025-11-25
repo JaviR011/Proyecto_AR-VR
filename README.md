@@ -5,7 +5,7 @@ Proyecto de realidad aumentada basado en **Unity + Vuforia Engine**.
 
 ---
 
-## 🚀 Requisitos
+##  Requisitos
 
 Antes de abrir el proyecto, es necesario instalar el paquete de **Vuforia Engine**, ya que GitHub **no permite subir archivos mayores a 100 MB** (como el archivo `com.ptc.vuforia.engine-XX.X.X.tgz` que requiere Vuforia).
 
@@ -13,12 +13,12 @@ Unity **NO puede reconstruir Vuforia automáticamente**, por lo que su instalaci
 
 ---
 
-## 📌 Instalación de Vuforia (OBLIGATORIO)
+##  Instalación de Vuforia (OBLIGATORIO)
 
 Sigue estos pasos antes de abrir la escena principal del proyecto:
 
 1. Descarga el paquete oficial de Vuforia desde:
-   👉 [https://developer.vuforia.com/downloads/sdk](https://developer.vuforia.com/downloads/sdk)
+    [https://developer.vuforia.com/downloads/sdk](https://developer.vuforia.com/downloads/sdk)
 
 2. En Unity, abre el **Package Manager**:
    `Window → Package Manager`
@@ -41,7 +41,7 @@ Sigue estos pasos antes de abrir la escena principal del proyecto:
 
 ---
 
-## 📦 Estructura del proyecto
+## Estructura del proyecto
 
 El repositorio incluye los archivos necesarios para abrir el proyecto sin errores (excepto Vuforia):
 
@@ -60,7 +60,7 @@ Las siguientes carpetas **NO se incluyen** porque Unity las reconstruye automát
 
 ---
 
-## 🔧 Nota importante sobre Vuforia
+## Nota importante sobre Vuforia
 
 El archivo `.tgz` de Vuforia supera el límite de 100 MB de GitHub, por ello **no está incluido en el repositorio**.
 
@@ -75,7 +75,7 @@ Después de la instalación, Unity cargará correctamente:
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Instala Vuforia (sección anterior).
 2. Abre Unity Hub.
@@ -86,18 +86,7 @@ Después de la instalación, Unity cargará correctamente:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Javier Rodríguez**
 Proyecto académico AR.
-
----
-
-Si quieres, puedo agregarte:
-
-✔ Capturas de pantalla
-✔ GIFs de la app en funcionamiento
-✔ Instrucciones de compilación para Android o iOS
-✔ Créditos o dependencias adicionales
-
-Solo dime y lo adapto.
